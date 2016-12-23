@@ -1,4 +1,4 @@
-$(call inherit-product, vendor/aokp/configs/common_full_phone.mk)
+$(call inherit-product, vendor/du/configs/common_full_phone.mk)
 
 $(call inherit-product, device/samsung/klte/full_klte.mk)
 
