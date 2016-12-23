@@ -1,0 +1,12 @@
+[
+ {
+   "repository":  "CyanogenMod/android_kernel_samsung_klte",
+   "target_path": "kernel/samsung/klte",
+   "branch":      "cm-14.1"
+ },
+ {
+    "repository": "CyanogenMod/android_device_samsung_klte-common",
+    "target_path": "device/samsung/klte-common",
+    "branch":      "cm-14.1"
+ }
+]
